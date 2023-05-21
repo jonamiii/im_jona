@@ -1,0 +1,15 @@
+body
+{
+background-repeat:no-repeat;
+background-image:url("jpeg.jpg");
+background-size:cover;
+}
+ul
+{
+align:right;
+}
+ul li
+{
+	display:inline-block;
+	padding:80px;
+}
